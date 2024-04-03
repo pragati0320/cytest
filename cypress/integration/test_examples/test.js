@@ -1,11 +1,15 @@
 //cypress
 //reference types="Cypress" />
 
-describe ('first test suite', function(){
+describe ('first test suite', function()
+{
 
-cy.visit("https://rahulshettyacademy.com/seleniumPractise/#/");    
+    it('my first test case',function(){
+        cy.visit("https://rahulshettyacademy.com/seleniumPractise/#/");    
 
-cy.get('.search-keyword').type('Cau');
+        cy.get('.search-keyword').type('Cau');
+    }   )
+
 }
 
 
