@@ -12,17 +12,6 @@ describe ('first test suite', function()
 
     }   )
 
-    it('my second test case',function(){
-        cy.visit("https://rahulshettyacademy.com/");    
-
-
-    }   )
-
-    it('my third test case',function(){
-        cy.visit("https://confignepal.com/");    
-
-
-    }   )
 }
 
 
