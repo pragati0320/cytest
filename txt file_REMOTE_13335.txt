@@ -1,0 +1,19 @@
+test file
+
+Git Learning
+2024 April 04
+
+Install git
+Go to project path
+Set up credentials — git config --global user.name "Your Name"
+
+git config --global user.email "your_email@example.com"
+
+Git init
+Git add .
+Git commit -m”commit message”
+git push origin main
+
+
+
+
