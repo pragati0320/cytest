@@ -19,7 +19,7 @@ describe ('first test suite', function()
     }   )
 
     it('my third test case',function(){
-        cy.visit("https://confignepal.com/");    
+        cy.visit("https://rahulshettyacademy.com/");    
 
 
     }   )
